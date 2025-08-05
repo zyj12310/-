@@ -104,7 +104,8 @@ function updateMainImage() {
         1: "./src/images/shocked.png",
         2: "./src/images/think.png",
         3: "./src/images/angry.png",
-        4: "./src/images/crying.png"
+        4: "wechat_2025-08-05_173312_706.png",
+        5: "./src/images/crying.png"
     };
 
     if (images[clickCount]) {
